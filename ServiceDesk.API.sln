@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceDesk.API", "ServiceDesk.Api\ServiceDesk.API.csproj", "{4DD50027-11E4-4763-8C4F-B0133EE970A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD50027-11E4-4763-8C4F-B0133EE970A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD50027-11E4-4763-8C4F-B0133EE970A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD50027-11E4-4763-8C4F-B0133EE970A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD50027-11E4-4763-8C4F-B0133EE970A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C045331A-A789-48F0-A8C3-E90C5F8E34D5}
+	EndGlobalSection
+EndGlobal
